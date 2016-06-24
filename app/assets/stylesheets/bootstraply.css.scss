@@ -1,0 +1,14 @@
+$navbar-height: 50px;
+$navbar-default-bg: #ff6699;
+$navbar-default-link-color: white;
+$jumbotron-bg: #b3ffcc;
+$btn-primary-bg: #ff6699;
+$btn-font-weight: bold;
+
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.center {
+    text-align: center;
+}
