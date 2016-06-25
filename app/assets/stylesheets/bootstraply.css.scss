@@ -4,6 +4,11 @@ $navbar-default-link-color: white;
 $jumbotron-bg: #b3ffcc;
 $btn-primary-bg: #ff6699;
 $btn-font-weight: bold;
+$panel-footer-bg: #b3ffcc;
+$panel-default-heading-bg: #b3ffcc;
+$panel-bg:  #e6ffee;
+$panel-default-border: #009933;
+$alert-success-bg: #ccffdc;
 
 
 @import "bootstrap-sprockets";
@@ -11,4 +16,8 @@ $btn-font-weight: bold;
 
 .center {
     text-align: center;
+}
+
+.actions {
+    padding: 20px;
 }
