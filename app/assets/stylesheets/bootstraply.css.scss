@@ -1,6 +1,7 @@
-$navbar-height: 50px;
+$navbar-height: 40px;
 $navbar-default-bg: #ff6699;
 $navbar-default-link-color: white;
+$navbar-default-brand-color: #b3ffcc;
 $jumbotron-bg: #b3ffcc;
 $btn-primary-bg: #ff6699;
 $btn-font-weight: bold;
@@ -9,6 +10,7 @@ $panel-default-heading-bg: #b3ffcc;
 $panel-bg:  #e6ffee;
 $panel-default-border: #009933;
 $alert-success-bg: #ccffdc;
+
 
 
 @import "bootstrap-sprockets";
