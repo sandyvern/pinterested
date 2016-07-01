@@ -14,6 +14,7 @@ gem 'paperclip', '~> 4.3', '>= 4.3.6'
 gem 'aws-sdk', '< 2.0'
 gem 'jquery-turbolinks'
 gem 'masonry-rails', '~> 0.2.0'
+gem 'rake', '~> 11.2', '>= 11.2.2'
 # gem 'aws-sdk', '~> 2.3', '>= 2.3.18'
 
 
